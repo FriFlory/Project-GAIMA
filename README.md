@@ -19,8 +19,8 @@ Here are some screenshots of the project:
 
 - ![First Idea of the Website](screenshots/originalidea.png)
 - ![Header & Banner](screenshots/topsite.png)
-- ![Products](screenshots/products)
-- ![Blog & Contact](screenshots/blog&contact)
+- ![Products](screenshots/products.png)
+- ![Blog & Contact](screenshots/blog&contact.png)
 
 ---
 
